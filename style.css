@@ -18,7 +18,8 @@ section{
 }
 
 iframe{
-    width: 100%; max-width: 800px; height: 500px;
+    width: 100%; aspect-ratio: 16/9; max-width: 620px;
+    border: none;
     margin: 0 auto;
 }
 
@@ -37,6 +38,6 @@ footer{
    tr{
     color: aliceblue;
 }
-
-    width: 560px; height: 315px;
+    width: 100%; max-width: 800px; height: 500px;
     border: none;
+    margin: 0 auto;
