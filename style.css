@@ -1,0 +1,42 @@
+   a{color: brown; font-size: 15px;}
+   #abc{color: teal;}
+   
+body {
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+
+    color: aliceblue;
+    text-align: center;
+
+}
+
+section{
+    color: rgba(162, 0, 255, 0.985);
+    font-size: 50px;
+}
+
+iframe{
+    width: 100%; max-width: 800px; height: 500px;
+    margin: 0 auto;
+}
+
+footer{
+    color: aliceblue;
+    text-align: justify;
+    }
+
+   table {
+    width: 40% ; 
+    border: 10px solid lightslategray;
+    margin: 0 auto;
+    border-collapse: collapse;
+   }
+
+   tr{
+    color: aliceblue;
+}
+
+    width: 560px; height: 315px;
+    border: none;
