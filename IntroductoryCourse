@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-hant">
+<head>
+    <style>
+        h1{color: rgba(162, 0, 255, 0.985);font-size: 50px;}
+        a{color: teal; font-size: 15px;}
+    </style>
+    <title>RYV Singing</title>
+</head>
+<body>
+        <a href="/27Dec2025.html">首頁</a>
+        <a href="/場刊_RYV Music Show .pdf" target="_blank">音樂會Poster</a>
+        <a href="https://google.com" target="_blank" rel="noopener">在新分頁開啟</a>
+        <a href="https://google.com" target="_self">在同一分頁開啟</a>
+    <p>文字段落</p>
+    <h1>title 1</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/U4ELbz2MiL8?si=o3vpFF7qEVf6A6em" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; gyroscope; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>title 2</h2>
+    <strong>粗體</strong>
+    <em>加強斜體</em><br>
+    <strong>Strong</strong><br><br>
+    <img src="/場刊_QR Code.jpg" alt="場刊QR code" width="150"><br>
+    <strong>Strong</strong><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYuEalEOnUSOeALyGO5QumF_o0ckqSI7wOA&s"alt="RYV Singing Logo" height="150"><br><br>
+
+    <table style="width: 45%" border="15">
+        <tr>
+            <td>Frist Name</td>
+            <td>Last name</td>
+            <td>職業 & 學歷</td>
+        </tr>
+        <tr>
+            <td>Singing</td>
+            <td>RYV</td>
+        </tr>
+        <tr>
+            <td>Dancing</td>
+            <td>RYV</td>
+        </tr>
+        <tr>
+            <td>Coding</td>
+            <td>RYV</td>
+        </tr>
+    </table>
+    <br>
+</body>
+</html>
