@@ -30,27 +30,29 @@ header{
 }
 
 section{
-    background-image: url("white-aesthetic-desktop-wallpapers.jpg");
-    color: rgba(162, 0, 255, 0.985);
-    padding-top: 1.2rem;
-    padding-bottom: 1.2rem;
+    background-color: black;
+    color: #feb47b;
+    /*color: rgba(162, 0, 255, 0.985);*/
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 section h1{
-    font-size: 45px;
-    line-height: 1;
+    font-size: 36px;
+    line-height: 1.;
+    font-style: italic;
 }
 
-section p{
-    font-size: 18px;
-    line-height: 4;
+section h2{
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .cta-button {
   display: inline-block;              /* 讓元素像文字一樣排列，但可設定寬高 */
   background: linear-gradient(90deg, #ff7e5f, #feb47b); /* 背景為橫向漸層，從橘紅到橘黃 */
   color: #fff;                        /* 文字顏色白色 */
-  font-size: 1.2rem;                  /* 字體大小，約比一般文字稍大 */
+  font-size: 1.9rem;                  /* 字體大小，約比一般文字稍大 */
   font-weight: bold;                  /* 粗體字，強調 CTA */
   padding: 12px 24px;                 /* 內距，上下 12px，左右 24px，讓按鈕有空間感 */
   border-radius: 6px;                 /* 圓角邊框，柔和但無邊框線 */
